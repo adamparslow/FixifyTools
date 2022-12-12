@@ -1,0 +1,19 @@
+{
+  "name": "fixifytools",
+  "version": "1.0.0",
+  "description": "[label](https://www.google.com/search?q%3Dspotify%2Bapi%26sourceid%3Dchrome%26ie%3DUTF-8)",
+  "main": "spotifyApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2"
+  },
+  "type": "module"
+}
+
